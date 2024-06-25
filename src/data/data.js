@@ -16,7 +16,7 @@ export const heroInfo = {
     'Software Engineer',
     'MQL4/5 Developer',
   ],
-  description: "As a Full Stack Developer with a passion for both coding and sports, I bring a dynamic and versatile approach to my work. My expertise spans front-end and back-end development, enabling me to create seamless and efficient web applications. Outside the tech world, I channel my energy into sports like football, basketball, and golf, finding inspiration in the teamwork, strategy, and precision they demand. This balance of technical skill and athletic enthusiasm drives me to SUCCESS.",
+  description: "As a Full Stack Developer with a passion for both coding and sports, I bring a dynamic and versatile approach to my work. This balance of technical skill and athletic enthusiasm always drives me to SUCCESS.",
   contacts: [
     {
       id: 1,
