@@ -127,7 +127,7 @@ export const projects = [
   {
     id: 1,
     image: '/images/Habitat.png',
-    name: 'Habitat Website',
+    name: 'Habitat',
     tools: ['E-Commerce', 'Typescript', 'React', 'Next', 'Redux', 'Redux Saga', 'React Hook', 'UI/UX', 'Responsive UI', 'Jest', 'Google Storage', 'Firebase'],
   },
   {
@@ -139,13 +139,13 @@ export const projects = [
   {
     id: 3,
     image: '/images/ThriveMarket.png',
-    name: 'Thrive Market Website',
+    name: 'Thrive Market',
     tools: ['E-Commerce', 'Python', 'Django', 'RESTful API', 'Google Map', 'Amazon S3', 'OAuth', 'Pytest', 'Security', 'HTTPS', 'Amazom EC2'],
   },
   {
     id: 4,
     image: '/images/OnTheMarket.png',
-    name: 'OnTheMarket Website',
+    name: 'OnTheMarket',
     tools: ['E-Commerce', 'Javascript', 'Vue', 'Responsive UI', 'Docker'],
   },
   {
@@ -169,7 +169,7 @@ export const projects = [
   {
     id: 8,
     image: '/images/AIA-Insurance.png',
-    name: 'Retail Sample',
+    name: 'AIA Insurance',
     tools: ['Insurance', 'Java', 'Spring Boot', 'RESTful API', 'MVC', 'JUnit'],
   },
   {
