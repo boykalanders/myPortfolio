@@ -34,9 +34,7 @@ export const useStyles = makeStyles({
     fontSize: '20px',
   },
   language: {
-    background: 'white',
     margin: '1.5rem auto',
-    borderRadius: '0.5rem ',
     padding: '1.5rem',
   },
   languageView: {
