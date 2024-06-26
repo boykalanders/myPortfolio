@@ -151,7 +151,7 @@ export const projects = [
   {
     id: 5,
     image: '/images/HKBank.png',
-    name: 'My Portfolio Website',
+    name: 'China Bank(Hong Kong)',
     tools: ['Finance and Banking', 'Javascript', 'React', 'Responsive UI', 'Cypress', 'Jenkins'],
   },
   {
@@ -170,13 +170,13 @@ export const projects = [
     id: 8,
     image: '/images/AIA-Insurance.png',
     name: 'Retail Sample',
-    tools: ['Insurance', 'PHP', 'Laravel', 'Responsive UI', 'RESTful API', 'MVC', 'PHPUnit'],
+    tools: ['Insurance', 'Java', 'Spring Boot', 'RESTful API', 'MVC', 'JUnit'],
   },
   {
     id: 9,
     image: '/images/mailerrize.png',
     name: 'Mailerrize',
-    tools: ['Mailer', 'Javascript', 'Nest', 'RESTful API', 'Cold Mail', 'Google Data Analytics'],
+    tools: ['Mailer', 'Javascript', 'Nodejs', 'Nestjs', 'RESTful API', 'Cold Mail', 'Google Data Analytics'],
   },
   {
     id: 10,
@@ -194,81 +194,129 @@ export const projects = [
 
 export const skills = [
   {
-    title: 'HTML',
-    logo: 'https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg',
+    title: 'HTML5',
+    logo: '/svg/html5.svg',
   },
   {
     title: 'JavaScript',
-    logo: 'https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg',
+    logo: '/svg/js.svg',
   },
   {
-    title: 'MongoDB',
-    logo: 'https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg',
+    title: 'NodeJS',
+    logo: '/svg/nodejs.svg',
   },
 
   {
     title: 'CSS',
-    logo: 'https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png',
+    logo: '/svg/css.svg',
   },
   {
     title: 'TypeScript',
-    logo: 'https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg',
+    logo: '/svg/ts.svg',
   },
   {
-    title: 'Firebase',
-    logo: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg',
+    title: 'NestJS',
+    logo: '/svg/nestjs.svg',
   },
   {
     title: 'Bootstrap',
-    logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png',
+    logo: '/svg/bootstrap.svg',
   },
   {
-    title: 'ReactJS',
-    logo: 'https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg',
+    title: 'React',
+    logo: '/svg/react.svg',
   },
   // msql
   {
-    title: 'MySQL',
-    logo: 'https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png',
+    title: 'Express',
+    logo: '/svg/express.svg'
   },
 
   {
-    title: 'Material-UI',
-    logo: 'https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667',
+    title: 'Tailwind',
+    logo: '/svg/tailwind-css.svg',
   },
 
   {
-    title: 'NodeJS',
-    logo: 'https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg',
+    title: 'Next',
+    logo: '/svg/next.svg',
+  },
+  {
+    title: 'Python',
+    logo: '/svg/python.svg',
+  },
+  {
+    title: 'Firebase',
+    logo: '/svg/firebase.svg',
+  },
+
+  {
+    title: 'Vue',
+    logo: '/svg/vue.svg',
+  },
+
+  {
+    title: 'Django',
+    logo: '/svg/django.svg',
+  },
+  {
+    title: 'Amazon EC2',
+    logo: '/svg/aws-ec2.svg',
+  },
+  {
+    title: 'Angular',
+    logo: '/svg/angular.svg',
+  },
+  {
+    title: 'Google Cloud',
+    logo: '/svg/google-cloud.svg',
+  },
+  {
+    title: 'MongoDB',
+    logo: '/svg/mongodb.svg',
+  },
+  {
+    title: 'PostgreSQL',
+    logo: '/svg/postgresql.svg'
+  },
+  {
+    title: 'Amazon S3',
+    logo: '/svg/amazon-s3.svg',
+  },
+  {
+    title: 'Jest',
+    logo: '/svg/jest.svg',
+  },
+  {
+    title: 'Cypress',
+    logo: '/svg/cypress.svg'
   },
   {
     title: 'PHP',
-    logo: 'https://www.vectorlogo.zone/logos/php/php-icon.svg',
+    logo: '/svg/php.svg',
   },
   {
-    title: 'VS Code',
-    logo: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg',
-  },
-
-  {
-    title: 'ExpressJS',
-    logo: 'https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg',
-  },
-
-  {
-    title: 'Git',
-    logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg',
+    title: 'Selenium',
+    logo: '/svg/selenium.svg',
   },
   {
-    title: 'Linux',
-    logo: 'https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png',
+    title: 'PHPUnit',
+    logo: '/svg/phpunit.svg'
   },
   {
-    title: 'npm',
-    logo: 'https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg',
+    title: 'Laravel',
+    logo: '/svg/laravel.svg',
   },
   {
-    title: 'GitHub',
-    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg',
+    title: 'MQL4/5',
+    logo: '/svg/mql.svg',
+  },
+  {
+    title: 'Redux',
+    logo: '/svg/redux.svg'
+  },
+  {
+    title: 'Wordpress',
+    logo: '/svg/wordpress.svg',
   },
 ];
